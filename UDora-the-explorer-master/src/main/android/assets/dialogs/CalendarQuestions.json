@@ -1,0 +1,44 @@
+{
+questions: [
+	{
+		question: How long into the semester does the Drop/Add period last?
+		correctAnswer: 2 weeks
+		wrongAnswers: [
+			8 weeks
+			10 weeks
+			1 week
+		]
+		review: The Drop/Add period is the first two weeks of the semester.
+	}
+	{
+		question: How long into the semester does the withdrawal period last?
+		correctAnswer: 8 weeks
+		wrongAnswers: [
+			10 weeks
+			12 weeks
+			2 weeks
+		]
+		review: The withdrawal period ends after the first 8 weeks.
+	}
+	{
+		question: Where can important University dates be found?
+		correctAnswer: Academic Calendar
+		wrongAnswers: [
+			Syllabus
+			UDSIS
+			Sakai
+		]
+		review: Important dates can be found in the Academic Calendar.
+	}
+	{
+		question: Classes dropped after how many weeks appear on your transcript?
+		correctAnswer: 2
+		wrongAnswers: [
+			1
+			3
+			4
+		]
+		review: Classes dropped in the first two weeks do not appear on your transcript.
+	}
+]
+}

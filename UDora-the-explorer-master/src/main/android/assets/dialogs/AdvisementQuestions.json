@@ -1,0 +1,44 @@
+{
+questions: [
+	{
+		question: Who makes all final registration and class decisions?
+		correctAnswer: You
+		wrongAnswers: [
+			Advisor
+			Professor
+			Dean
+		]
+		review: Remember that you make all final decisions!
+	}
+	{
+		question: Who should you ask about a bad roommate scenario?
+		correctAnswer: RA
+		wrongAnswers: [
+			Advisement
+			Professor
+			No One
+		]
+		review: Your academic advisor only deals with academic needs.
+	}
+	{
+		question: Who should you talk to about what classes to schedule?
+		correctAnswer: Advisor
+		wrongAnswers: [
+			Dean
+			RA
+			Roommate
+		]
+		review: Your academic advisor is the place to go for academic needs.
+	}
+	{
+		question: How many advisors can you have?
+		correctAnswer: No Limit
+		wrongAnswers: [
+			1
+			2
+			3
+		]
+		review: You will have one advisor for each major.
+	}
+]
+}

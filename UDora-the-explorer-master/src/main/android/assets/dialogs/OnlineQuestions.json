@@ -1,0 +1,44 @@
+{
+questions: [
+	{
+		question: From where do you access UDSIS?
+		correctAnswer: UD Homepage
+		wrongAnswers: [
+			Sakai
+			Canvas
+			Facebook
+		]
+		review: "UDSIS can be accessed from the UD Homepage."
+	}
+	{
+		question: Where do you go to add classes?
+		correctAnswer: UDSIS
+		wrongAnswers: [
+			Sakai
+			Advisor
+			Canvas
+		]
+		review: "The class registration page is accessed through UDSIS."
+	}
+	{
+		question: Where do you go to change your major?
+		correctAnswer: UDSIS
+		wrongAnswers: [
+			Sakai
+			Advisor
+			Professor
+		]
+		review: "You can access the change major form on UDSIS."
+	}
+	{
+		question: Where do you go to see other students' schedules?
+		correctAnswer: None
+		wrongAnswers: [
+			Canvas
+			Sakai
+			UDSIS
+		]
+		review: "Only your schedules are available on UDSIS."
+	}
+]
+}

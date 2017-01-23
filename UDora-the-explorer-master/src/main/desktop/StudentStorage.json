@@ -1,0 +1,53 @@
+{
+students: {
+	alipman1: {
+		username: alipman1
+		advisementTries: 1
+		advisementFinalDecisions: 1
+		advisementBadRoomate: 1
+		advisementScheduling: 1
+		advisementLimit: 1
+		resourcesTries: 1
+		resourcesWritingCenter: 1
+		resourcesMathTutorialLab: 1
+		resourcesOfficeOfAcademicEnrichment: 1
+		resourcesCareerServices: 1
+		calendarTries: 2
+		calendarDropAdd: 1
+		calendarWithdrawal: 1
+		calendarOverall: 1
+		calendarOffTranscript: 1
+		onlineTries: 1
+		onlineUDSIS: 1
+		onlineAddClasses: 1
+		onlineChangeMajor: 1
+		onlineOtherPeople: 1
+		lastDateTried: Sun May 24 21:07:13 EDT 2015
+		totalTime: 112
+	}
+	alipman: {
+		username: alipman
+		advisementTries: 2
+		advisementFinalDecisions: 2
+		advisementBadRoomate: 2
+		advisementScheduling: 2
+		advisementLimit: 2
+		resourcesTries: 2
+		resourcesWritingCenter: 2
+		resourcesMathTutorialLab: 2
+		resourcesOfficeOfAcademicEnrichment: 2
+		resourcesCareerServices: 2
+		calendarTries: 2
+		calendarDropAdd: 2
+		calendarWithdrawal: 2
+		calendarOverall: 2
+		calendarOffTranscript: 2
+		onlineTries: 2
+		onlineUDSIS: 2
+		onlineAddClasses: 2
+		onlineChangeMajor: 2
+		onlineOtherPeople: 2
+		lastDateTried: Sun May 24 19:51:19 EDT 2015
+	}
+}
+}

@@ -1,0 +1,44 @@
+{
+questions: [
+	{
+		question: Where would you go for help writing papers?
+		correctAnswer: 016 Memorial Hall
+		wrongAnswers: [
+			053 McKinly Lab
+			150 S. College Ave.
+			401 Academy St.
+		]
+		review: "The Writing center is located at Memorial Hall 016."
+	}
+	{
+		question: Where would you go for math help?
+		correctAnswer: 053 McKinly Lab
+		wrongAnswers: [
+			150 S. College Ave.
+			401 Academy St.
+			016 Memorial Hall
+		]
+		review: "The Math Tutorial Center is located in McKinly building, Room 053."
+	}
+	{
+		question: Where would you go to find a tutor?
+		correctAnswer: 150 S. College Ave.
+		wrongAnswers: [
+			401 Academy St.
+			016 Memorial Hall
+			053 McKinly Lab
+		]
+		review: "You can find a tutor at the Academic Enrichment Center which is located at 150 South College Avenue."
+	}
+	{
+		question: Where would you go to have your resume reviewed?
+		correctAnswer: 401 Academy St.
+		wrongAnswers: [
+			150 S. College Ave.
+			016 Memorial Hall
+			053 McKinly Lab
+		]
+		review: "The Career Services Center provides resume reviews and is located at 401 Academy Street."
+	}
+]
+}

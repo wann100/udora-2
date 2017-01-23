@@ -1,0 +1,23 @@
+Author(s): Pat Hough, Taiwan Savage, Victor Enemou
+Recorder: Andrew Lipman
+Readers: Nate Hamilton, Mamadou Wann
+
+Pat's Code: LoginScreen
+Initialize Text field?
+Create Login game state
+Create Student Object
+Change file types from internal (read-only) to local (read and write)
+Test Code
+Get it working
+
+
+Taiwan's Code: MiniGame
+Add more comments
+Add review text as parameter to make area specific
+Only make review screens appear for wrong questions
+
+Victor's Code: Dialogue Display
+Add Comments
+Add Tests
+Condense Dialogue
+Make pictures better quality
